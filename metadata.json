@@ -1,0 +1,5 @@
+{
+  "name": "InductorLab: Faraday's Law Explorer",
+  "description": "An interactive physics simulation platform for visualizing electromagnetic induction, magnetic flux, and Lenz's Law in real-time with an AI-powered tutor.",
+  "requestFramePermissions": []
+}
